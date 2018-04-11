@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EC12PLGRSDVF
+D Rotary encoder, incremental quadrate outputs, with switch LED
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+#End Doc Library
