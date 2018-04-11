@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z8S180F
+D Zilog Z8S180 CPU 80-Pin QFP
+F http://www.zilog.com/docs/z180/z8s180ps.pdf
+$ENDCMP
+#
+$CMP Z8S180P
+D Zilog Z8S180 CPU 64-Pin DIP
+F http://www.zilog.com/docs/z180/z8s180ps.pdf
+$ENDCMP
+#
+$CMP Z8S180V
+D Zilog Z8S180 CPU 68-Pin PLCC
+F http://www.zilog.com/docs/z180/z8s180ps.pdf
+$ENDCMP
+#
+#End Doc Library

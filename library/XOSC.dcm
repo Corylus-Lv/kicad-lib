@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASTX-H11
+D crystal oscillator
+F https://www.marutsu.co.jp/contents/shop/marutsu/ds/ASTX-H11.pdf
+$ENDCMP
+#
+$CMP FOX924B
+D crystal oscillator
+F https://www.marutsu.co.jp/contents/shop/marutsu/ds/ASTX-H11.pdf
+$ENDCMP
+#
+$CMP KHO-HC
+D crystal oscillator
+F http://akizukidenshi.com/download/ds/Kyocera/kxo_kho.pdf
+$ENDCMP
+#
+$CMP SG8002DC
+D crystal oscillator
+F http://akizukidenshi.com/download/SG-8002DC.pdf
+$ENDCMP
+#
+$CMP TG-5021CE
+D crystal oscillator
+F http://akizukidenshi.com/download/ds/seikoepson/TG-5031CJ_5021CG_CE_J13Y.pdf
+$ENDCMP
+#
+$CMP VM39S5G
+D crystal oscillator
+F http://akizukidenshi.com/download/ds/MercuryElectronic/tcxo_s.pdf
+$ENDCMP
+#
+#End Doc Library
