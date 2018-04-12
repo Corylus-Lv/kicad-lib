@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MJ373-3
+D 3-pin Mini-DIN connector
+K Mini-DIN
+F http://www.assmann-wsw.com/fileadmin/catalogue/10_MiniDIN_rev4-0.pdf
+$ENDCMP
+#
 $CMP MJ373-4
 D 4-pin Mini-DIN connector
 K Mini-DIN
@@ -14,6 +20,18 @@ $ENDCMP
 #
 $CMP MJ373-6
 D 6-pin Mini-DIN connector
+K Mini-DIN
+F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
+$ENDCMP
+#
+$CMP MJ373-7
+D 7-pin Mini-DIN connector
+K Mini-DIN
+F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
+$ENDCMP
+#
+$CMP MJ373-8
+D 8-pin Mini-DIN connector
 K Mini-DIN
 F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
 $ENDCMP
